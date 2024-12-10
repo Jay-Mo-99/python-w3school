@@ -1,2 +1,2 @@
 txt = "Hello Python"
-print(len(txt))
+print(txt[-5:-1])

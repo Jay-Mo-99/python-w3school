@@ -20,8 +20,6 @@ my_list[1:3] = ["new"]
 
 
 thislist = ["apple", "banana", "cherry","durian"]
-
-
 [print(x*3) for x in thislist]
 
 # for i in range(len(thislist)):
